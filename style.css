@@ -15,7 +15,7 @@ h3 {
   font-family: "Playfair Display", Times, serif;
 }
 
-#about h2 {
+#about h2, #about h3 {
   text-align: center;
 }
 
